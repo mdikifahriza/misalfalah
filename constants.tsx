@@ -1,5 +1,5 @@
-import { NavItem, Teacher, NewsItem, Achievement, Activity } from './types';
-import { BookOpen, Users, Trophy, Star, Clock, MapPin, Phone, Mail } from 'lucide-react';
+import { NavItem, Teacher, NewsItem, Activity } from './types';
+import { BookOpen, Users, Star } from 'lucide-react';
 
 export const SCHOOL_NAME = "MIS Al-Falah Kanigoro";
 export const SCHOOL_ADDRESS = "Jl. Raya Kanigoro No. 123, Blitar, Jawa Timur";

@@ -1,6 +1,6 @@
 import React from 'react';
 import { LATEST_NEWS } from '../constants';
-import { Calendar, User } from 'lucide-react';
+import { Calendar } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
 
 const Berita: React.FC = () => {
